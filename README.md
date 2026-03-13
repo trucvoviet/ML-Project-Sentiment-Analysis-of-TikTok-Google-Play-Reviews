@@ -195,7 +195,7 @@ fig = px.pie(
 fig.show()
 ```
 
-![sentiment distribution]("imgs/1 sentiment dist pie chart.png")
+![sentiment distribution](imgs/1 sentiment dist pie chart.png)
 
 ---
 
@@ -216,7 +216,7 @@ wordcloud = WordCloud(
 
 This shows **most frequent words in all TikTok reviews**.
 
-![All reviews]("imgs/2 all review word cloud.png")
+![All reviews](imgs/2 all review word cloud.png)
 
 ---
 
