@@ -48,7 +48,8 @@ pip install pandas matplotlib plotly wordcloud nltk beautifulsoup4 contractions 
 ```
 or 
 ```bash
-pip install -r requirements.txt```
+pip install -r requirements.txt
+```
 ---
 
 # Step 2 — Import Libraries
