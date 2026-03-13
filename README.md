@@ -48,8 +48,7 @@ pip install pandas matplotlib plotly wordcloud nltk beautifulsoup4 contractions 
 ```
 or 
 ```bash
-pip install -r requirements.txt
-```
+pip install -r requirements.txt```
 ---
 
 # Step 2 — Import Libraries
@@ -195,7 +194,7 @@ fig = px.pie(
 fig.show()
 ```
 
-![sentiment distribution](imgs/1 sentiment dist pie chart.png)
+![sentiment distribution](imgs/1sentiment.png)
 
 ---
 
@@ -216,7 +215,7 @@ wordcloud = WordCloud(
 
 This shows **most frequent words in all TikTok reviews**.
 
-![All reviews](imgs/2 all review word cloud.png)
+![All reviews](imgs/2allReview.png)
 
 ---
 
